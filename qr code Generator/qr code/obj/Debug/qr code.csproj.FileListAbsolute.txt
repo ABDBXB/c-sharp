@@ -1,0 +1,12 @@
+C:\Users\abdal\source\repos\qr code\qr code\bin\Debug\qr code.exe.config
+C:\Users\abdal\source\repos\qr code\qr code\bin\Debug\qr code.exe
+C:\Users\abdal\source\repos\qr code\qr code\bin\Debug\qr code.pdb
+C:\Users\abdal\source\repos\qr code\qr code\bin\Debug\QRCoder.dll
+C:\Users\abdal\source\repos\qr code\qr code\obj\Debug\qr code.csprojAssemblyReference.cache
+C:\Users\abdal\source\repos\qr code\qr code\obj\Debug\qr_code.Form1.resources
+C:\Users\abdal\source\repos\qr code\qr code\obj\Debug\qr_code.Properties.Resources.resources
+C:\Users\abdal\source\repos\qr code\qr code\obj\Debug\qr code.csproj.GenerateResource.cache
+C:\Users\abdal\source\repos\qr code\qr code\obj\Debug\qr code.csproj.CoreCompileInputs.cache
+C:\Users\abdal\source\repos\qr code\qr code\obj\Debug\qr code.csproj.CopyComplete
+C:\Users\abdal\source\repos\qr code\qr code\obj\Debug\qr code.exe
+C:\Users\abdal\source\repos\qr code\qr code\obj\Debug\qr code.pdb
