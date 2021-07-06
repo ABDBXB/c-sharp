@@ -1,0 +1,10 @@
+C:\Users\abdal\source\repos\send mail test program\send mail test program\bin\Debug\send mail test program.exe.config
+C:\Users\abdal\source\repos\send mail test program\send mail test program\bin\Debug\send mail test program.exe
+C:\Users\abdal\source\repos\send mail test program\send mail test program\bin\Debug\send mail test program.pdb
+C:\Users\abdal\source\repos\send mail test program\send mail test program\obj\Debug\send mail test program.csprojAssemblyReference.cache
+C:\Users\abdal\source\repos\send mail test program\send mail test program\obj\Debug\send_mail_test_program.Form1.resources
+C:\Users\abdal\source\repos\send mail test program\send mail test program\obj\Debug\send_mail_test_program.Properties.Resources.resources
+C:\Users\abdal\source\repos\send mail test program\send mail test program\obj\Debug\send mail test program.csproj.GenerateResource.cache
+C:\Users\abdal\source\repos\send mail test program\send mail test program\obj\Debug\send mail test program.csproj.CoreCompileInputs.cache
+C:\Users\abdal\source\repos\send mail test program\send mail test program\obj\Debug\send mail test program.exe
+C:\Users\abdal\source\repos\send mail test program\send mail test program\obj\Debug\send mail test program.pdb
