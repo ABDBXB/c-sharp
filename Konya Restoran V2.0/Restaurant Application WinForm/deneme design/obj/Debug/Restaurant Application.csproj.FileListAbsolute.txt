@@ -1,0 +1,214 @@
+C:\Users\ME\Desktop\deneme design8\deneme design\bin\Debug\deneme design.exe.config
+C:\Users\ME\Desktop\deneme design8\deneme design\bin\Debug\deneme design.exe
+C:\Users\ME\Desktop\deneme design8\deneme design\bin\Debug\deneme design.pdb
+C:\Users\ME\Desktop\deneme design8\deneme design\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ME\Desktop\deneme design8\deneme design\bin\Debug\CircularProgressBar.dll
+C:\Users\ME\Desktop\deneme design8\deneme design\bin\Debug\Guna.UI2.dll
+C:\Users\ME\Desktop\deneme design8\deneme design\bin\Debug\itextsharp.dll
+C:\Users\ME\Desktop\deneme design8\deneme design\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ME\Desktop\deneme design8\deneme design\bin\Debug\WinFormAnimation.dll
+C:\Users\ME\Desktop\deneme design8\deneme design\bin\Debug\CircularProgressBar.xml
+C:\Users\ME\Desktop\deneme design8\deneme design\bin\Debug\itextsharp.xml
+C:\Users\ME\Desktop\deneme design8\deneme design\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ME\Desktop\deneme design8\deneme design\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ME\Desktop\deneme design8\deneme design\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\Restaurant Application.csproj.ResolveComReference.cache
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Cards.BillCard.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemAdd.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemUpdate.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemUpdateForms.UpdateFoodItemDetails.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemUpdateForms.UpdateImage.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemUpdateForms.UpdatePortions.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.PdfReader.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.Personel.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.PersonelDetails.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.AdminTables.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Controls.ItemControl.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemsPanel.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.UserControls.PortionDetailsControl.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.UserControls.TablesControl.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.UserControls.PersonelControl.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.BillForm.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.LoginForm.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.MainForm.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.ItemsForm.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.AdminForm.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Properties.Resources.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\Restaurant Application.csproj.GenerateResource.cache
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\Restaurant Application.csproj.CopyComplete
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme design.exe
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme design.pdb
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\obj\Debug\Restaurant Application.csprojAssemblyReference.cache
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\obj\Debug\Restaurant Application.csproj.ResolveComReference.cache
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Cards.BillCard.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemAdd.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemUpdate.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemUpdateForms.UpdateFoodItemDetails.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemUpdateForms.UpdateImage.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemUpdateForms.UpdatePortions.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.PdfReader.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.Personel.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.PersonelDetails.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.AdminTables.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Controls.ItemControl.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemsPanel.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.UserControls.PortionDetailsControl.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.UserControls.TablesControl.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.UserControls.PersonelControl.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.BillForm.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.LoginForm.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.MainForm.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.ItemsForm.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.AdminForm.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Properties.Resources.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\obj\Debug\Restaurant Application.csproj.GenerateResource.cache
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\bin\Debug\CircularProgressBar.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\bin\Debug\Guna.UI2.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\bin\Debug\itextsharp.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\bin\Debug\WinFormAnimation.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\bin\Debug\CircularProgressBar.xml
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\bin\Debug\itextsharp.xml
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\obj\Debug\Restaurant Application.csproj.CopyComplete
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\bin\Debug\Konya Restaurant.exe.config
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\bin\Debug\Konya Restaurant.exe
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\bin\Debug\Konya Restaurant.pdb
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\obj\Debug\Konya Restaurant.exe
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0\Restaurant Application WinForm\deneme design\obj\Debug\Konya Restaurant.pdb
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\Konya Restaurant.exe.config
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\Konya Restaurant.exe
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\Konya Restaurant.pdb
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\CircularProgressBar.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\Guna.UI2.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\itextsharp.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\WinFormAnimation.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\CircularProgressBar.xml
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\itextsharp.xml
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\Restaurant Application.csprojAssemblyReference.cache
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\Restaurant Application.csproj.ResolveComReference.cache
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Cards.BillCard.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemAdd.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemUpdate.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemUpdateForms.UpdateFoodItemDetails.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemUpdateForms.UpdateImage.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemUpdateForms.UpdatePortions.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.PdfReader.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.Personel.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.PersonelDetails.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.AdminTables.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Controls.ItemControl.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemsPanel.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.UserControls.PortionDetailsControl.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.UserControls.TablesControl.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.UserControls.PersonelControl.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.BillForm.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.LoginForm.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.MainForm.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.ItemsForm.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.AdminForm.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Properties.Resources.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\Restaurant Application.csproj.GenerateResource.cache
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\Restaurant Application.csproj.CopyComplete
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\Konya Restaurant.exe
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\Konya Restaurant.pdb
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\Konya Restaurant.exe.config
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\Konya Restaurant.exe
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\Konya Restaurant.pdb
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\BouncyCastle.Crypto.dll
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\CircularProgressBar.dll
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\Guna.UI2.dll
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\itextsharp.dll
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\Newtonsoft.Json.dll
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\WinFormAnimation.dll
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\CircularProgressBar.xml
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\itextsharp.xml
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\Newtonsoft.Json.xml
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\Interop.AcroPDFLib.dll
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\Restaurant Application.csprojAssemblyReference.cache
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\Interop.AcroPDFLib.dll
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\Restaurant Application.csproj.ResolveComReference.cache
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Cards.BillCard.resources
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemAdd.resources
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemUpdate.resources
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemUpdateForms.UpdateFoodItemDetails.resources
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemUpdateForms.UpdateImage.resources
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemUpdateForms.UpdatePortions.resources
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.PdfReader.resources
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.Personel.resources
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.PersonelDetails.resources
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.AdminTables.resources
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Controls.ItemControl.resources
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemsPanel.resources
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.UserControls.PortionDetailsControl.resources
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.UserControls.TablesControl.resources
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.UserControls.PersonelControl.resources
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.BillForm.resources
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.LoginForm.resources
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.MainForm.resources
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.ItemsForm.resources
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.AdminForm.resources
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Properties.Resources.resources
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\Restaurant Application.csproj.GenerateResource.cache
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\Restaurant Application.csproj.CopyComplete
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\Konya Restaurant.exe
+D:\Dersler\4.Dönem Dersleri\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\Konya Restaurant.pdb
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\Konya Restaurant.exe.config
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\Konya Restaurant.exe
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\Konya Restaurant.pdb
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\CircularProgressBar.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\Guna.UI2.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\itextsharp.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\WinFormAnimation.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\CircularProgressBar.xml
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\itextsharp.xml
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\Restaurant Application.csprojAssemblyReference.cache
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\Restaurant Application.csproj.ResolveComReference.cache
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Cards.BillCard.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemAdd.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemUpdate.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemUpdateForms.UpdateFoodItemDetails.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemUpdateForms.UpdateImage.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemUpdateForms.UpdatePortions.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.PdfReader.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.Personel.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.PersonelDetails.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.AdminTables.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Controls.ItemControl.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemsPanel.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.UserControls.PortionDetailsControl.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.UserControls.TablesControl.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Forms.AdminForms.UserControls.PersonelControl.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.BillForm.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.LoginForm.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.MainForm.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.ItemsForm.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.AdminForm.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\deneme_design.Properties.Resources.resources
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\Restaurant Application.csproj.GenerateResource.cache
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\Restaurant Application.csproj.CopyComplete
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\Konya Restaurant.exe
+C:\Users\ME\Desktop\Restaurant Project Final 1.0.0 12-5-2021\31-5-2021\Restaurant Application WinForm\deneme design\obj\Debug\Konya Restaurant.pdb

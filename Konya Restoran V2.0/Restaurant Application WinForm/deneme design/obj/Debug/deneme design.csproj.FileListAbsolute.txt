@@ -1,0 +1,431 @@
+C:\Users\abdal\source\repos\deneme design\deneme design\bin\Debug\deneme design.exe.config
+C:\Users\abdal\source\repos\deneme design\deneme design\bin\Debug\deneme design.exe
+C:\Users\abdal\source\repos\deneme design\deneme design\bin\Debug\deneme design.pdb
+C:\Users\abdal\source\repos\deneme design\deneme design\obj\Debug\deneme_design.Form1.resources
+C:\Users\abdal\source\repos\deneme design\deneme design\obj\Debug\deneme_design.Properties.Resources.resources
+C:\Users\abdal\source\repos\deneme design\deneme design\obj\Debug\deneme design.csproj.GenerateResource.cache
+C:\Users\abdal\source\repos\deneme design\deneme design\obj\Debug\deneme design.csproj.CoreCompileInputs.cache
+C:\Users\abdal\source\repos\deneme design\deneme design\obj\Debug\deneme design.exe
+C:\Users\abdal\source\repos\deneme design\deneme design\obj\Debug\deneme design.pdb
+C:\Users\abdal\source\repos\deneme design\deneme design\bin\Debug\Guna.UI2.dll
+C:\Users\abdal\source\repos\deneme design\deneme design\obj\Debug\deneme design.csproj.CopyComplete
+C:\Users\abdal\source\repos\deneme design\deneme design\obj\Debug\deneme_design.Form2.resources
+C:\Users\abdal\source\repos\deneme design\deneme design\obj\Debug\deneme_design.Form3.resources
+C:\Users\abdal\source\repos\deneme design\deneme design\obj\Debug\deneme design.csprojAssemblyReference.cache
+C:\Users\Musa\Desktop\deneme design8\deneme design\obj\Debug\deneme design.csprojAssemblyReference.cache
+C:\Users\Musa\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Properties.Resources.resources
+C:\Users\Musa\Desktop\deneme design8\deneme design\obj\Debug\deneme design.csproj.GenerateResource.cache
+C:\Users\Musa\Desktop\deneme design8\deneme design\obj\Debug\deneme design.exe
+C:\Users\Musa\Desktop\deneme design8\deneme design\obj\Debug\deneme design.pdb
+C:\Users\Musa\Desktop\deneme design8\deneme design\bin\Debug\deneme design.exe.config
+C:\Users\Musa\Desktop\deneme design8\deneme design\bin\Debug\deneme design.exe
+C:\Users\Musa\Desktop\deneme design8\deneme design\bin\Debug\deneme design.pdb
+C:\Users\Musa\Desktop\deneme design8\deneme design\bin\Debug\Guna.UI2.dll
+C:\Users\Musa\Desktop\deneme design8\deneme design\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Musa\Desktop\deneme design8\deneme design\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Musa\Desktop\deneme design8\deneme design\obj\Debug\deneme design.csproj.CopyComplete
+C:\Users\Musa\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.BillForm.resources
+C:\Users\Musa\Desktop\deneme design8\deneme design\bin\Debug\CircularProgressBar.dll
+C:\Users\Musa\Desktop\deneme design8\deneme design\bin\Debug\WinFormAnimation.dll
+C:\Users\Musa\Desktop\deneme design8\deneme design\bin\Debug\CircularProgressBar.xml
+C:\Users\Musa\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.loadingForm.resources
+C:\Users\Musa\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.LoginForm.resources
+C:\Users\Musa\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.MainForm.resources
+C:\Users\Musa\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.ItemsForm.resources
+C:\Users\Musa\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.AdminForm.resources
+C:\Users\Musa\Desktop\change DB\deneme design8\deneme design\bin\Debug\deneme design.exe.config
+C:\Users\Musa\Desktop\change DB\deneme design8\deneme design\bin\Debug\deneme design.exe
+C:\Users\Musa\Desktop\change DB\deneme design8\deneme design\bin\Debug\deneme design.pdb
+C:\Users\Musa\Desktop\change DB\deneme design8\deneme design\bin\Debug\CircularProgressBar.dll
+C:\Users\Musa\Desktop\change DB\deneme design8\deneme design\bin\Debug\Guna.UI2.dll
+C:\Users\Musa\Desktop\change DB\deneme design8\deneme design\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Musa\Desktop\change DB\deneme design8\deneme design\bin\Debug\WinFormAnimation.dll
+C:\Users\Musa\Desktop\change DB\deneme design8\deneme design\bin\Debug\CircularProgressBar.xml
+C:\Users\Musa\Desktop\change DB\deneme design8\deneme design\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Musa\Desktop\change DB\deneme design8\deneme design\obj\Debug\deneme design.csprojAssemblyReference.cache
+C:\Users\Musa\Desktop\change DB\deneme design8\deneme design\obj\Debug\deneme_design.BillForm.resources
+C:\Users\Musa\Desktop\change DB\deneme design8\deneme design\obj\Debug\deneme_design.LoginForm.resources
+C:\Users\Musa\Desktop\change DB\deneme design8\deneme design\obj\Debug\deneme_design.MainForm.resources
+C:\Users\Musa\Desktop\change DB\deneme design8\deneme design\obj\Debug\deneme_design.ItemsForm.resources
+C:\Users\Musa\Desktop\change DB\deneme design8\deneme design\obj\Debug\deneme_design.loadingForm.resources
+C:\Users\Musa\Desktop\change DB\deneme design8\deneme design\obj\Debug\deneme_design.AdminForm.resources
+C:\Users\Musa\Desktop\change DB\deneme design8\deneme design\obj\Debug\deneme_design.Properties.Resources.resources
+C:\Users\Musa\Desktop\change DB\deneme design8\deneme design\obj\Debug\deneme design.csproj.GenerateResource.cache
+C:\Users\Musa\Desktop\change DB\deneme design8\deneme design\obj\Debug\deneme design.csproj.CopyComplete
+C:\Users\Musa\Desktop\change DB\deneme design8\deneme design\obj\Debug\deneme design.exe
+C:\Users\Musa\Desktop\change DB\deneme design8\deneme design\obj\Debug\deneme design.pdb
+C:\Users\Musa\Desktop\change DB\deneme design8\deneme design\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Musa\Desktop\change DB\deneme design8\deneme design\bin\Debug\itextsharp.dll
+C:\Users\Musa\Desktop\change DB\deneme design8\deneme design\bin\Debug\itextsharp.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\deneme design.exe.config
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\deneme design.exe
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\deneme design.pdb
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\CircularProgressBar.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Guna.UI2.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\itextsharp.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\WinFormAnimation.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\CircularProgressBar.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\itextsharp.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\obj\Debug\deneme design.csprojAssemblyReference.cache
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\obj\Debug\deneme_design.BillForm.resources
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\obj\Debug\deneme_design.LoginForm.resources
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\obj\Debug\deneme_design.MainForm.resources
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\obj\Debug\deneme_design.ItemsForm.resources
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\obj\Debug\deneme_design.loadingForm.resources
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\obj\Debug\deneme_design.AdminForm.resources
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\obj\Debug\deneme_design.Properties.Resources.resources
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\obj\Debug\deneme design.csproj.GenerateResource.cache
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\obj\Debug\deneme design.csproj.CopyComplete
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\obj\Debug\deneme design.exe
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\obj\Debug\deneme design.pdb
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.MenuMain.resources
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.AddMenu.resources
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.UserControls.TablesControl.resources
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\obj\Debug\deneme_design.Controls.ItemControl.resources
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.UserControls.PersonelControl.resources
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.Personel.resources
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.PersonelDetails.resources
+C:\Users\Musa\Desktop\1\Restaurant Project\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.AdminTables.resources
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\obj\Debug\deneme design.csprojAssemblyReference.cache
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.Personel.resources
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.PersonelDetails.resources
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.AdminTables.resources
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\obj\Debug\deneme_design.Controls.ItemControl.resources
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.MenuMain.resources
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.UserControls.TablesControl.resources
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.UserControls.PersonelControl.resources
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\obj\Debug\deneme_design.BillForm.resources
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\obj\Debug\deneme_design.LoginForm.resources
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\obj\Debug\deneme_design.MainForm.resources
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\obj\Debug\deneme_design.ItemsForm.resources
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\obj\Debug\deneme_design.AdminForm.resources
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\obj\Debug\deneme_design.Properties.Resources.resources
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\obj\Debug\deneme design.csproj.GenerateResource.cache
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\obj\Debug\deneme design.exe
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\obj\Debug\deneme design.pdb
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\deneme design.exe.config
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\deneme design.exe
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\deneme design.pdb
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\CircularProgressBar.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Guna.UI2.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\itextsharp.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\WinFormAnimation.dll
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\CircularProgressBar.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\itextsharp.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\obj\Debug\deneme design.csproj.CopyComplete
+C:\Users\Musa\Desktop\Restaurant 3_4\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.AddFoodItem.resources
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\deneme design.exe.config
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\deneme design.exe
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\deneme design.pdb
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\CircularProgressBar.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Guna.UI2.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\itextsharp.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\WinFormAnimation.dll
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\CircularProgressBar.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\itextsharp.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\obj\Debug\deneme design.csprojAssemblyReference.cache
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.AddFoodItem.resources
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.Personel.resources
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.PersonelDetails.resources
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.AdminTables.resources
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\obj\Debug\deneme_design.Controls.ItemControl.resources
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.UserControls.TablesControl.resources
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.UserControls.PersonelControl.resources
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\obj\Debug\deneme_design.BillForm.resources
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\obj\Debug\deneme_design.LoginForm.resources
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\obj\Debug\deneme_design.MainForm.resources
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\obj\Debug\deneme_design.ItemsForm.resources
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\obj\Debug\deneme_design.AdminForm.resources
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\obj\Debug\deneme_design.Properties.Resources.resources
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\obj\Debug\deneme design.csproj.GenerateResource.cache
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\obj\Debug\deneme design.csproj.CopyComplete
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\obj\Debug\deneme design.exe
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\obj\Debug\deneme design.pdb
+C:\Users\Musa\Desktop\Restaurant 9_4\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemsPanel.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\bin\Debug\deneme design.exe.config
+C:\Users\ME\Desktop\deneme design8\deneme design\bin\Debug\deneme design.exe
+C:\Users\ME\Desktop\deneme design8\deneme design\bin\Debug\deneme design.pdb
+C:\Users\ME\Desktop\deneme design8\deneme design\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ME\Desktop\deneme design8\deneme design\bin\Debug\CircularProgressBar.dll
+C:\Users\ME\Desktop\deneme design8\deneme design\bin\Debug\Guna.UI2.dll
+C:\Users\ME\Desktop\deneme design8\deneme design\bin\Debug\itextsharp.dll
+C:\Users\ME\Desktop\deneme design8\deneme design\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ME\Desktop\deneme design8\deneme design\bin\Debug\WinFormAnimation.dll
+C:\Users\ME\Desktop\deneme design8\deneme design\bin\Debug\CircularProgressBar.xml
+C:\Users\ME\Desktop\deneme design8\deneme design\bin\Debug\itextsharp.xml
+C:\Users\ME\Desktop\deneme design8\deneme design\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme design.csprojAssemblyReference.cache
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.Personel.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.PersonelDetails.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.AdminTables.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Controls.ItemControl.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemsPanel.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.UserControls.TablesControl.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.UserControls.PersonelControl.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.BillForm.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.LoginForm.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.MainForm.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.ItemsForm.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.AdminForm.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Properties.Resources.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme design.csproj.GenerateResource.cache
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme design.csproj.CopyComplete
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme design.exe
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme design.pdb
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\bin\Debug\deneme design.exe.config
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\bin\Debug\deneme design.exe
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\bin\Debug\deneme design.pdb
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\bin\Debug\CircularProgressBar.dll
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\bin\Debug\Guna.UI2.dll
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\bin\Debug\itextsharp.dll
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\bin\Debug\WinFormAnimation.dll
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\bin\Debug\CircularProgressBar.xml
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\bin\Debug\itextsharp.xml
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\obj\Debug\deneme design.csprojAssemblyReference.cache
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.Personel.resources
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.PersonelDetails.resources
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.AdminTables.resources
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\obj\Debug\deneme_design.Controls.ItemControl.resources
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemsPanel.resources
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.UserControls.TablesControl.resources
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.UserControls.PersonelControl.resources
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\obj\Debug\deneme_design.BillForm.resources
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\obj\Debug\deneme_design.LoginForm.resources
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\obj\Debug\deneme_design.MainForm.resources
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\obj\Debug\deneme_design.ItemsForm.resources
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\obj\Debug\deneme_design.AdminForm.resources
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\obj\Debug\deneme_design.Properties.Resources.resources
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\obj\Debug\deneme design.csproj.GenerateResource.cache
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\obj\Debug\deneme design.csproj.CopyComplete
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\obj\Debug\deneme design.exe
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\obj\Debug\deneme design.pdb
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemAdd.resources
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemUpdate.resources
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemUpdateForms.UpdateImage.resources
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemUpdateForms.UpdateFoodItemDetails.resources
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemUpdateForms.UpdatePortions.resources
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.UserControls.PortionDetailsControl.resources
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\obj\Debug\deneme design.csproj.ResolveComReference.cache
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.PdfReader.resources
+C:\Users\ME\Desktop\Restaurant 3-5\deneme design8\deneme design\obj\Debug\deneme_design.Cards.BillCard.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ME\Desktop\deneme design8\deneme design\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme design.csproj.ResolveComReference.cache
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Cards.BillCard.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemAdd.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemUpdate.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemUpdateForms.UpdateFoodItemDetails.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemUpdateForms.UpdateImage.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.FoodItemUpdateForms.UpdatePortions.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.PdfReader.resources
+C:\Users\ME\Desktop\deneme design8\deneme design\obj\Debug\deneme_design.Forms.AdminForms.UserControls.PortionDetailsControl.resources

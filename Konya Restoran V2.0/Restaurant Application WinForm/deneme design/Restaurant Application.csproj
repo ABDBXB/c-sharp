@@ -1,0 +1,566 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0E1A9D6F-397D-4F05-AA88-12476906D856}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>deneme_design</RootNamespace>
+    <AssemblyName>Konya Restaurant</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>chef-cooking-food-illustration-chef-food-design-6dc20e4abbbe5f032e7927c485f17e97.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.9\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="CircularProgressBar, Version=2.8.0.16, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>..\packages\CircularProgressBar.2.8.0.16\lib\net40\CircularProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.1.4, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.1.4\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.2, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.2\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WinFormAnimation, Version=1.6.0.4, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>..\packages\WinFormAnimation.1.6.0.4\lib\net40\WinFormAnimation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Context\CategoryContext.cs" />
+    <Compile Include="Context\FoodItemContext.cs" />
+    <Compile Include="Context\FoodItem_PortionContext.cs" />
+    <Compile Include="Context\PortionContext.cs" />
+    <Compile Include="Context\TableContext.cs" />
+    <Compile Include="Forms\AdminForms\FoodItemAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminForms\FoodItemAdd.Designer.cs">
+      <DependentUpon>FoodItemAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AdminForms\FoodItemUpdateForms\UpdateFoodItemDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminForms\FoodItemUpdateForms\UpdateFoodItemDetails.Designer.cs">
+      <DependentUpon>UpdateFoodItemDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AdminForms\FoodItemUpdateForms\UpdateImage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminForms\FoodItemUpdateForms\UpdateImage.Designer.cs">
+      <DependentUpon>UpdateImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AdminForms\FoodItemUpdateForms\UpdatePortions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminForms\FoodItemUpdateForms\UpdatePortions.Designer.cs">
+      <DependentUpon>UpdatePortions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AdminForms\PdfReader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminForms\PdfReader.Designer.cs">
+      <DependentUpon>PdfReader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AdminForms\Personel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminForms\Personel.Designer.cs">
+      <DependentUpon>Personel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AdminForms\PersonelDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminForms\PersonelDetails.Designer.cs">
+      <DependentUpon>PersonelDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AdminForms\AdminTables.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminForms\AdminTables.Designer.cs">
+      <DependentUpon>AdminTables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AdminForms\FoodItemUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminForms\FoodItemUpdate.Designer.cs">
+      <DependentUpon>FoodItemUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AdminForms\UserControls\ItemControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminForms\UserControls\ItemControl.Designer.cs">
+      <DependentUpon>ItemControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AdminForms\FoodItemsPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminForms\FoodItemsPanel.Designer.cs">
+      <DependentUpon>FoodItemsPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AdminForms\UserControls\PortionDetailsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminForms\UserControls\PortionDetailsControl.Designer.cs">
+      <DependentUpon>PortionDetailsControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AdminForms\UserControls\TablesControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminForms\UserControls\TablesControl.Designer.cs">
+      <DependentUpon>TablesControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AdminForms\UserControls\PersonelControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminForms\UserControls\PersonelControl.Designer.cs">
+      <DependentUpon>PersonelControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\BillForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BillForm.Designer.cs">
+      <DependentUpon>BillForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cards\BillCard.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cards\FoodItemCard.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cards\SaveCard.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cards\TableCard.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Context\FoodOrderContext.cs" />
+    <Compile Include="Context\ItemContext.cs" />
+    <Compile Include="Model\Category.cs" />
+    <Compile Include="Model\FoodItem.cs" />
+    <Compile Include="Model\FoodItem_Portion.cs" />
+    <Compile Include="Model\ItemImages.cs" />
+    <Compile Include="Model\FoodItem_Order.cs" />
+    <Compile Include="Model\Order.cs" />
+    <Compile Include="Model\Portion.cs" />
+    <Compile Include="Model\Table.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RestClient\ApiClient.cs" />
+    <Compile Include="Forms\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ItemsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ItemsForm.Designer.cs">
+      <DependentUpon>ItemsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminForm.Designer.cs">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Role.cs" />
+    <Compile Include="Model\Employee.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RestClient\JsonService.cs" />
+    <Compile Include="RestClient\PasswordEncoder.cs" />
+    <EmbeddedResource Include="Cards\BillCard.resx">
+      <DependentUpon>BillCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AdminForms\FoodItemAdd.resx">
+      <DependentUpon>FoodItemAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AdminForms\FoodItemUpdate.resx">
+      <DependentUpon>FoodItemUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AdminForms\FoodItemUpdateForms\UpdateFoodItemDetails.resx">
+      <DependentUpon>UpdateFoodItemDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AdminForms\FoodItemUpdateForms\UpdateImage.resx">
+      <DependentUpon>UpdateImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AdminForms\FoodItemUpdateForms\UpdatePortions.resx">
+      <DependentUpon>UpdatePortions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AdminForms\PdfReader.resx">
+      <DependentUpon>PdfReader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AdminForms\Personel.resx">
+      <DependentUpon>Personel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AdminForms\PersonelDetails.resx">
+      <DependentUpon>PersonelDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AdminForms\AdminTables.resx">
+      <DependentUpon>AdminTables.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AdminForms\UserControls\ItemControl.resx">
+      <DependentUpon>ItemControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AdminForms\FoodItemsPanel.resx">
+      <DependentUpon>FoodItemsPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AdminForms\UserControls\PortionDetailsControl.resx">
+      <DependentUpon>PortionDetailsControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AdminForms\UserControls\TablesControl.resx">
+      <DependentUpon>TablesControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AdminForms\UserControls\PersonelControl.resx">
+      <DependentUpon>PersonelControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BillForm.resx">
+      <DependentUpon>BillForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ItemsForm.resx">
+      <DependentUpon>ItemsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AdminForm.resx">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="bin\Debug\image\Pdf\1.pdf" />
+    <None Include="bin\Debug\image\Pdf\10.pdf" />
+    <None Include="bin\Debug\image\Pdf\11.pdf" />
+    <None Include="bin\Debug\image\Pdf\12.pdf" />
+    <None Include="bin\Debug\image\Pdf\13.pdf" />
+    <None Include="bin\Debug\image\Pdf\14.pdf" />
+    <None Include="bin\Debug\image\Pdf\15.pdf" />
+    <None Include="bin\Debug\image\Pdf\16.pdf" />
+    <None Include="bin\Debug\image\Pdf\17.pdf" />
+    <None Include="bin\Debug\image\Pdf\18.pdf" />
+    <None Include="bin\Debug\image\Pdf\19.pdf" />
+    <None Include="bin\Debug\image\Pdf\2.pdf" />
+    <None Include="bin\Debug\image\Pdf\20.pdf" />
+    <None Include="bin\Debug\image\Pdf\21.pdf" />
+    <None Include="bin\Debug\image\Pdf\22.pdf" />
+    <None Include="bin\Debug\image\Pdf\23.pdf" />
+    <None Include="bin\Debug\image\Pdf\24.pdf" />
+    <None Include="bin\Debug\image\Pdf\25.pdf" />
+    <None Include="bin\Debug\image\Pdf\26.pdf" />
+    <None Include="bin\Debug\image\Pdf\27.pdf" />
+    <None Include="bin\Debug\image\Pdf\28.pdf" />
+    <None Include="bin\Debug\image\Pdf\29.pdf" />
+    <None Include="bin\Debug\image\Pdf\3.pdf" />
+    <None Include="bin\Debug\image\Pdf\30.pdf" />
+    <None Include="bin\Debug\image\Pdf\31.pdf" />
+    <None Include="bin\Debug\image\Pdf\32.pdf" />
+    <None Include="bin\Debug\image\Pdf\4.pdf" />
+    <None Include="bin\Debug\image\Pdf\5.pdf" />
+    <None Include="bin\Debug\image\Pdf\6.pdf" />
+    <None Include="bin\Debug\image\Pdf\7.pdf" />
+    <None Include="bin\Debug\image\Pdf\8.pdf" />
+    <None Include="bin\Debug\image\Pdf\9.pdf" />
+    <None Include="bin\Debug\image\Pdf\FaturaNo.pdf" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\table_icon.png" />
+    <None Include="bin\Debug\image\delete_after.png" />
+    <None Include="bin\Debug\image\delete_before.png" />
+    <None Include="bin\Debug\image\TL.png" />
+    <None Include="bin\Debug\image\icons\fatur.png" />
+    <None Include="bin\Debug\image\icons\icons8_person_6aaa4px.png" />
+    <None Include="bin\Debug\image\icons\Masalar.png" />
+    <None Include="bin\Debug\image\icons\y.png" />
+    <None Include="bin\Debug\image\icons\bill.png" />
+    <None Include="bin\Debug\image\icons\item.png" />
+    <None Include="bin\Debug\image\icons\person.png" />
+    <None Include="bin\Debug\image\icons\table.png" />
+    <None Include="bin\Debug\image\icons\foodİcons\burger.png" />
+    <None Include="bin\Debug\image\icons\foodİcons\cake.png" />
+    <None Include="bin\Debug\image\icons\foodİcons\coffe.png" />
+    <None Include="bin\Debug\image\icons\foodİcons\cola.png" />
+    <None Include="bin\Debug\image\icons\foodİcons\doner.png" />
+    <None Include="bin\Debug\image\icons\foodİcons\food.png" />
+    <None Include="bin\Debug\image\icons\foodİcons\juice.png" />
+    <None Include="bin\Debug\image\icons\foodİcons\pizza.png" />
+    <None Include="bin\Debug\image\admin panel\bill.png" />
+    <None Include="bin\Debug\image\admin panel\item.png" />
+    <None Include="bin\Debug\image\admin panel\person.png" />
+    <None Include="bin\Debug\image\admin panel\table.png" />
+    <None Include="bin\Debug\image\foodItems\burger.png" />
+    <None Include="bin\Debug\image\foodItems\cake.png" />
+    <None Include="bin\Debug\image\foodItems\coffe.png" />
+    <None Include="bin\Debug\image\foodItems\cola.png" />
+    <None Include="bin\Debug\image\foodItems\doner.png" />
+    <None Include="bin\Debug\image\foodItems\food.png" />
+    <None Include="bin\Debug\image\foodItems\juice.png" />
+    <None Include="bin\Debug\image\foodItems\pizza.png" />
+    <None Include="bin\Debug\image\logo.png" />
+    <None Include="bin\Debug\image\İCONS\personel.png" />
+    <None Include="bin\Debug\image\İCONS\update after.png" />
+    <None Include="bin\Debug\image\İCONS\update before.png" />
+    <None Include="bin\Debug\image\İCONS\cancel_after.png" />
+    <None Include="bin\Debug\image\İCONS\cancel_before.png" />
+    <None Include="bin\Debug\image\İCONS\confirm_after.png" />
+    <None Include="bin\Debug\image\İCONS\confirm_before.png" />
+    <None Include="bin\Debug\image\İCONS\logout_after.png" />
+    <None Include="bin\Debug\image\İCONS\logout_before.png" />
+    <None Include="bin\Debug\image\İCONS\add.png" />
+    <None Include="bin\Debug\image\İCONS\remove.png" />
+    <None Include="bin\Debug\image\foodItems\DefalutFoodImage.png" />
+    <None Include="bin\Debug\image\admin panel\Header_background.png" />
+    <None Include="bin\Debug\image\İCONS\back_after.png" />
+    <None Include="bin\Debug\image\İCONS\back_before.png" />
+    <None Include="bin\Debug\image\İCONS\reports.png" />
+    <None Include="bin\Debug\image\İCONS\arrow_up.png" />
+    <None Include="bin\Debug\image\admin_panel\bill.png" />
+    <None Include="bin\Debug\image\admin_panel\Header_background.png" />
+    <None Include="bin\Debug\image\admin_panel\item.png" />
+    <None Include="bin\Debug\image\admin_panel\person.png" />
+    <None Include="bin\Debug\image\admin_panel\table.png" />
+    <None Include="bin\Debug\image\header.png" />
+    <None Include="bin\Debug\image\icons\111.png" />
+    <Content Include="bin\Debug\image\icons\add.png" />
+    <Content Include="bin\Debug\image\icons\arrow_up.png" />
+    <Content Include="bin\Debug\image\icons\back_after.png" />
+    <None Include="bin\Debug\image\icons\back_after_red.png" />
+    <Content Include="bin\Debug\image\icons\back_before.png" />
+    <None Include="bin\Debug\image\icons\burger.png" />
+    <None Include="bin\Debug\image\icons\cake.png" />
+    <None Include="bin\Debug\image\icons\busy_table.png" />
+    <None Include="bin\Debug\image\icons\busy_table_white.png" />
+    <None Include="bin\Debug\image\icons\busy_table2.png" />
+    <None Include="bin\Debug\image\icons\busy_table2_blue.png" />
+    <Content Include="bin\Debug\image\icons\cancel_after.png" />
+    <Content Include="bin\Debug\image\icons\cancel_before.png" />
+    <None Include="bin\Debug\image\icons\coffe.png" />
+    <None Include="bin\Debug\image\icons\cola.png" />
+    <Content Include="bin\Debug\image\icons\confirm_after.png" />
+    <Content Include="bin\Debug\image\icons\confirm_before.png" />
+    <None Include="bin\Debug\image\icons\depo hover.png" />
+    <None Include="bin\Debug\image\icons\exit.png" />
+    <None Include="bin\Debug\image\icons\home hover.png" />
+    <None Include="bin\Debug\image\icons\icons8_back_64px.png" />
+    <None Include="bin\Debug\image\icons\icons8_coffee_to_go_50px.png" />
+    <None Include="bin\Debug\image\icons\icons8_coffee_to_go_50pxwb.png" />
+    <None Include="bin\Debug\image\icons\icons8_delete_50pxwhite.png" />
+    <None Include="bin\Debug\image\icons\icons8_depot_100px.png" />
+    <None Include="bin\Debug\image\icons\icons8_drag_48px.png" />
+    <None Include="bin\Debug\image\icons\icons8_enlarge_48px.png" />
+    <None Include="bin\Debug\image\icons\icons8_exit_100px.png" />
+    <None Include="bin\Debug\image\icons\icons8_hamburger_50px.png" />
+    <None Include="bin\Debug\image\icons\icons8_hamburger_50pxwb.png" />
+    <None Include="bin\Debug\image\icons\icons8_home_32px.png" />
+    <None Include="bin\Debug\image\icons\icons8_kawaii_cupcake_50px.png" />
+    <None Include="bin\Debug\image\icons\icons8_kawaii_cupcake_50pxwb.png" />
+    <None Include="bin\Debug\image\icons\icons8_male_user_32px.png" />
+    <None Include="bin\Debug\image\icons\icons8_minimize_window_50px.png" />
+    <None Include="bin\Debug\image\icons\icons8_minimize_window_50pxwhite.png" />
+    <None Include="bin\Debug\image\icons\icons8_purchase_order_64px.png" />
+    <None Include="bin\Debug\image\icons\icons8_save_80px.png" />
+    <None Include="bin\Debug\image\icons\icons8_save_80pxwhite.png" />
+    <None Include="bin\Debug\image\icons\icons8_secure_50px.png" />
+    <None Include="bin\Debug\image\icons\icons8_shrink_50px.png" />
+    <None Include="bin\Debug\image\icons\icons8_shrink_50pxwhite.png" />
+    <None Include="bin\Debug\image\icons\icons8_table_48px.png" />
+    <None Include="bin\Debug\image\icons\icons8_trash_50px.png" />
+    <None Include="bin\Debug\image\icons\icons8_trash_50pxblackwhite.png" />
+    <None Include="bin\Debug\image\icons\icons8_trash_can_50px.png" />
+    <None Include="bin\Debug\image\icons\icons8_unchecked_checkbox_26px.png" />
+    <None Include="bin\Debug\image\icons\icons8_user_24px_1.png" />
+    <None Include="bin\Debug\image\icons\DefalutFoodImage.png" />
+    <None Include="bin\Debug\image\icons\delete_after.png" />
+    <None Include="bin\Debug\image\icons\delete_before.png" />
+    <None Include="bin\Debug\image\icons\doner.png" />
+    <None Include="bin\Debug\image\icons\food.png" />
+    <None Include="bin\Debug\image\icons\header.png" />
+    <None Include="bin\Debug\image\icons\Header_background.png" />
+    <None Include="bin\Debug\image\icons\juice.png" />
+    <None Include="bin\Debug\image\icons\logo.png" />
+    <None Include="bin\Debug\image\icons\empty_table_hover.png" />
+    <None Include="bin\Debug\image\icons\empty_table_white.png" />
+    <None Include="bin\Debug\image\icons\home_hover.png" />
+    <None Include="bin\Debug\image\icons\home_white.png" />
+    <None Include="bin\Debug\image\icons\empty_table2.png" />
+    <None Include="bin\Debug\image\icons\empty_table_blue.png" />
+    <None Include="bin\Debug\image\icons\home_blue.png" />
+    <Content Include="bin\Debug\image\icons\logout_after.png" />
+    <Content Include="bin\Debug\image\icons\logout_before.png" />
+    <None Include="bin\Debug\image\icons\order hover .png" />
+    <None Include="bin\Debug\image\icons\personel - Copy.png" />
+    <None Include="bin\Debug\image\icons\logout_before_white.png" />
+    <Content Include="bin\Debug\image\icons\personel.png" />
+    <None Include="bin\Debug\image\icons\prsonal_card.png" />
+    <None Include="bin\Debug\image\icons\personel_panle %281%29.png" />
+    <None Include="bin\Debug\image\icons\pizza.png" />
+    <Content Include="bin\Debug\image\icons\remove.png" />
+    <Content Include="bin\Debug\image\icons\reports.png" />
+    <None Include="bin\Debug\image\icons\simple-gray-line-2ddb2a03221dd3314f2b170f765ad29c.png" />
+    <None Include="bin\Debug\image\icons\table_icon.png" />
+    <None Include="bin\Debug\image\icons\TL.png" />
+    <Content Include="bin\Debug\image\icons\update after.png" />
+    <Content Include="bin\Debug\image\icons\update before.png" />
+    <None Include="bin\Debug\image\simple-gray-line-2ddb2a03221dd3314f2b170f765ad29c.png" />
+    <None Include="bin\Debug\image\icons\yemek.png" />
+    <Content Include="bin\Debug\image\İCONS\back_after_red.png" />
+    <Content Include="bin\Debug\image\İCONS\depo hover.png" />
+    <Content Include="bin\Debug\image\İCONS\exit.png" />
+    <Content Include="bin\Debug\image\İCONS\home hover.png" />
+    <Content Include="bin\Debug\image\İCONS\icons8_back_64px.png" />
+    <Content Include="bin\Debug\image\İCONS\icons8_coffee_to_go_50px.png" />
+    <Content Include="bin\Debug\image\İCONS\icons8_coffee_to_go_50pxwb.png" />
+    <Content Include="bin\Debug\image\İCONS\icons8_delete_50pxwhite.png" />
+    <Content Include="bin\Debug\image\İCONS\icons8_depot_100px.png" />
+    <Content Include="bin\Debug\image\İCONS\icons8_drag_48px.png" />
+    <Content Include="bin\Debug\image\İCONS\icons8_enlarge_48px.png" />
+    <Content Include="bin\Debug\image\İCONS\icons8_exit_100px.png" />
+    <Content Include="bin\Debug\image\İCONS\icons8_hamburger_50px.png" />
+    <Content Include="bin\Debug\image\İCONS\icons8_hamburger_50pxwb.png" />
+    <Content Include="bin\Debug\image\İCONS\icons8_home_32px.png" />
+    <Content Include="bin\Debug\image\İCONS\icons8_kawaii_cupcake_50px.png" />
+    <Content Include="bin\Debug\image\İCONS\icons8_kawaii_cupcake_50pxwb.png" />
+    <Content Include="bin\Debug\image\İCONS\icons8_male_user_32px.png" />
+    <Content Include="bin\Debug\image\İCONS\icons8_minimize_window_50px.png" />
+    <Content Include="bin\Debug\image\İCONS\icons8_minimize_window_50pxwhite.png" />
+    <Content Include="bin\Debug\image\İCONS\icons8_purchase_order_64px.png" />
+    <Content Include="bin\Debug\image\İCONS\icons8_save_80px.png" />
+    <Content Include="bin\Debug\image\İCONS\icons8_save_80pxwhite.png" />
+    <Content Include="bin\Debug\image\İCONS\icons8_secure_50px.png" />
+    <Content Include="bin\Debug\image\İCONS\icons8_shrink_50px.png" />
+    <Content Include="bin\Debug\image\İCONS\icons8_shrink_50pxwhite.png" />
+    <Content Include="bin\Debug\image\İCONS\icons8_table_48px.png" />
+    <Content Include="bin\Debug\image\İCONS\icons8_trash_50px.png" />
+    <Content Include="bin\Debug\image\İCONS\icons8_trash_50pxblackwhite.png" />
+    <Content Include="bin\Debug\image\İCONS\icons8_trash_can_50px.png" />
+    <Content Include="bin\Debug\image\İCONS\icons8_unchecked_checkbox_26px.png" />
+    <Content Include="bin\Debug\image\İCONS\icons8_user_24px_1.png" />
+    <Content Include="bin\Debug\image\İCONS\order hover .png" />
+    <Content Include="bin\Debug\image\İCONS\personel - Copy.png" />
+    <Content Include="bin\Debug\image\İCONS\prsonal_card.png" />
+    <Content Include="chef-cooking-food-illustration-chef-food-design-6dc20e4abbbe5f032e7927c485f17e97.ico" />
+    <None Include="Resources\Image1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
