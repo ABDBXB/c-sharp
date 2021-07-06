@@ -1,0 +1,11 @@
+C:\Users\abdal\source\repos\Naboli linkler\Naboli linkler\bin\Debug\Naboli linkler.exe.config
+C:\Users\abdal\source\repos\Naboli linkler\Naboli linkler\bin\Debug\Naboli linkler.exe
+C:\Users\abdal\source\repos\Naboli linkler\Naboli linkler\bin\Debug\Naboli linkler.pdb
+C:\Users\abdal\source\repos\Naboli linkler\Naboli linkler\bin\Debug\Naboli linkler.xml
+C:\Users\abdal\source\repos\Naboli linkler\Naboli linkler\obj\Debug\Naboli_linkler.Form1.resources
+C:\Users\abdal\source\repos\Naboli linkler\Naboli linkler\obj\Debug\Naboli_linkler.Resources.resources
+C:\Users\abdal\source\repos\Naboli linkler\Naboli linkler\obj\Debug\Naboli linkler.vbproj.GenerateResource.cache
+C:\Users\abdal\source\repos\Naboli linkler\Naboli linkler\obj\Debug\Naboli linkler.vbproj.CoreCompileInputs.cache
+C:\Users\abdal\source\repos\Naboli linkler\Naboli linkler\obj\Debug\Naboli linkler.exe
+C:\Users\abdal\source\repos\Naboli linkler\Naboli linkler\obj\Debug\Naboli linkler.xml
+C:\Users\abdal\source\repos\Naboli linkler\Naboli linkler\obj\Debug\Naboli linkler.pdb
